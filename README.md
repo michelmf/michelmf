@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-Michel aqui, tudo bem? Espero que sim!
+Michel here, hope you're doing well!
 
-Sou engenheiro eletrônico e atualmente trabalho com data science e machine learning.
-Meu Linkedin: https://www.linkedin.com/in/michelmferreira/
+I hold a bachelor's degree in Electronic and Computer Engineering from UFRJ (Federal University of Rio de Janeiro) and have experience in software engineering, data science, machine learning, signal processing, robotics, analog/digital electronics, and cybersecurity. 
 
-Infelizmente, a maioria dos meus projetos estão no privado e totalmente bagunçados. Posto assim que puder.
+Currently, all my projects are private because they are messy, outdated, and poorly documented. I will update the repositories as I find time. Hopefully, they will all be complete by 2025!
 
-Abraços.
-
+📫 How to reach me: https://www.linkedin.com/in/michelmferreira/
 <!--
 **michelmf/michelmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
