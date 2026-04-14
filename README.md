@@ -4,7 +4,7 @@ Michel here, hope you're doing well!
 
 I hold a bachelor's degree in Electronic and Computer Engineering from UFRJ (Federal University of Rio de Janeiro) and have experience in software engineering, data science, machine learning, signal processing, robotics, analog/digital electronics, and cybersecurity. 
 
-Currently, all my projects are private because they are messy, outdated, and poorly documented. I will update the repositories as I find time. Hopefully, they will all be complete by 2025!
+Currently, all my projects are private because they are messy, outdated, and poorly documented. I will update the repositories as I find time.
 
 📫 How to reach me: https://www.linkedin.com/in/michelmferreira/
 <!--
